@@ -1,4 +1,4 @@
-use std::net::{ TcpListener };
+use std::net::TcpListener;
 use std::io::Write;
 use std::thread;
 fn main() {
